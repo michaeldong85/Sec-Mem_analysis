@@ -1,0 +1,2 @@
+# Sec-Mem_analysis
+This R script is designed to screen for Sec-Mem interactions between one subgroup from Group 1 and another subgroup from Group 2 In this script, 6 subgroups from Epithelial group and 4 subgroups from  CAF group are used as examples Sec-Mem matrix between secreted proteins from subgroups of epithelial cells and membrane proteins from subgroups of CAF cells is generated and stored in RESULT and output as output.csv
